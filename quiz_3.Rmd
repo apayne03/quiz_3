@@ -1,0 +1,14 @@
+---
+title: "quiz_3"
+author: "Alyssa Payne"
+date: "November 1, 2016"
+output: word_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Question 4
+
+The comparison for the correlations between ratings and raises and ratings and critical was $\Delta$ r = .43, 95% CI [.02,.82], N = 30. However, the CI is quite long, and is consistent with anywhere from no correlation to a very strongly positive relationship.
