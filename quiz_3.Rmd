@@ -4,11 +4,30 @@ author: "Alyssa Payne"
 date: "November 1, 2016"
 output: word_document
 ---
+## Question 1
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
+The correlation between A1-C1 and E1-O1 was $\Delta r$= -.01, 95% CI [-.11, .09], N = 759. The CI suggests at most a weak negative or positive relationship between these variables. 
+
+## Question 2
+
+The correlation between A1-C1 and A1-E1 was $\Delta r$= -.08, 95% CI [-.18, .02], N = 764. The CI suggests at most a weak negative or positive relationship between these variables. 
+
+## Question 3
+
+The correlation between A1-E1 for men and A1-E1 for women was $\Delta r$= .02, 95% CI [-.13, .17], N = 769. The CI suggests at most a weak positive or negative relationship between these variables. 
 
 ## Question 4
 
-The comparison for the correlations between ratings and raises and ratings and critical was $\Delta$ r = .43, 95% CI [.02,.82], N = 30. However, the CI is quite long, and is consistent with anywhere from no correlation to a very strongly positive relationship.
+The comparison for the correlations between ratings-raises and ratings-critical was $\Delta r$ = .43, 95% CI [.07,.79], N = 30. The CI is quite long. These data are only sufficient to rule out a negative relationship between these variables. 
+
+## Question 5
+
+The comparison for the correlations between rating-raises and complaints-critical was $\Delta r$ = -.24, 95% CI [-.46,-.16], N = 30. The CI is quite large, therefore these data are only sufficient to say the relationship between variable is likely negative.
+
+## Question 6
+
+The comparison for the correlations of rating-raises between the 2 studies was $\Delta r$ = -.27, 95% CI [-.58, .1]. Statistically, this means that we cannot rule out that the two correlations came from the same population. 
+
+## Question 7
+
+Because the sample size of 3000 is considerably larger than a sample size of 30, we should assume that the second correlation is much more informative than the first study. 
